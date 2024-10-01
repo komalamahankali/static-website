@@ -1,0 +1,28 @@
+.login-container{
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    width: 40%;
+    padding: 10px;
+    background-color: greenyellow;
+    color: whitesmoke;
+    border-radius: 4px;
+    color: black;
+    margin-left: 110px;
+}
+
+input{
+    width: 95%;
+    padding: 10px; 
+    margin: 10px;
+    border-radius: 4px;
+}
